@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🕸️
 
 The Goal here is to make working with plain wasm & wasi-preview1 easy & fun.
 
